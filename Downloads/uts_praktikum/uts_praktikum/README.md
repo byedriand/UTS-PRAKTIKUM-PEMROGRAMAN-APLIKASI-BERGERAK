@@ -47,32 +47,32 @@ lib/
 Berikut beberapa tampilan aplikasi yang disediakan di folder `screenshots/`:
 
 - `screenshots/Dashboard.png`
-- `screenshots/User input.png`
-- `screenshots/dynnamic list.png`
-- `screenshots/Navigasi sederhana.png`
-- `screenshots/Tentang saya.png`
-- `screenshots/widget bertingkat.png`
+- `screenshots/user_input.png`
+- `screenshots/dynamic_list.png`
+- `screenshots/navigasi_sederhana.png`
+- `screenshots/tentang_saya.png`
+- `screenshots/widget_bertingkat.png`
 - `screenshots/Counter.png`
-- `screenshots/grid view.png`
-- `screenshots/halaman view.png`
+- `screenshots/grid_view.png`
+- `screenshots/halaman_detail.png`
 
 ![Dashboard](screenshots/Dashboard.png)
 
-![User Input](screenshots/User input.png)
+![User Input](screenshots/user_input.png)
 
-![Dynamic List](screenshots/dynnamic list.png)
+![Dynamic List](screenshots/dynamic_list.png)
 
-![Navigasi Sederhana](screenshots/Navigasi sederhana.png)
+![Navigasi Sederhana](screenshots/navigasi_sederhana.png)
 
-![Tentang Saya](screenshots/Tentang saya.png)
+![Tentang Saya](screenshots/tentang_saya.png)
 
-![Widget Bertingkat](screenshots/widget bertingkat.png)
+![Widget Bertingkat](screenshots/widget_bertingkat.png)
 
 ![Counter](screenshots/Counter.png)
 
-![Grid View](screenshots/grid view.png)
+![Grid View](screenshots/grid_view.png)
 
-![Halaman Detail](screenshots/halaman view.png)
+![Halaman Detail](screenshots/halaman_detail.png)
 
 ## Lisensi
 
