@@ -58,21 +58,21 @@ Berikut beberapa tampilan aplikasi yang disediakan di folder `screenshots/`:
 
 ![Dashboard](screenshots/Dashboard.png)
 
-![User Input](screenshots/Userinput.png)
+![User Input](screenshots/User input.png)
 
-![Dynamic List](screenshots/dynnamiclist.png)
+![Dynamic List](screenshots/dynnamic list.png)
 
-![Navigasi Sederhana](screenshots/Navigasisederhana.png)
+![Navigasi Sederhana](screenshots/Navigasi sederhana.png)
 
-![Tentang Saya](screenshots/Tentangsaya.png)
+![Tentang Saya](screenshots/Tentang saya.png)
 
-![Widget Bertingkat](screenshots/widgetbertingkat.png)
+![Widget Bertingkat](screenshots/widget bertingkat.png)
 
 ![Counter](screenshots/Counter.png)
 
-![Grid View](screenshots/gridview.png)
+![Grid View](screenshots/grid view.png)
 
-![Halaman Detail](screenshots/halamanview.png)
+![Halaman Detail](screenshots/halaman view.png)
 
 ## Lisensi
 
