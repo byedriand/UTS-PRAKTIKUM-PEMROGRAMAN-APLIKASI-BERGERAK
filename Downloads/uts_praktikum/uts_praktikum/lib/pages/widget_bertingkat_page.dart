@@ -7,8 +7,10 @@ class WidgetBertingkatPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Widget Bertingkat',
-            style: TextStyle(color: Colors.white)),
+        title: const Text(
+          'Widget Bertingkat',
+          style: TextStyle(color: Colors.white),
+        ),
         backgroundColor: Colors.lightBlue[700],
         iconTheme: const IconThemeData(color: Colors.white),
       ),
@@ -21,7 +23,8 @@ class WidgetBertingkatPage extends StatelessWidget {
             Card(
               elevation: 4,
               shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(12)),
+                borderRadius: BorderRadius.circular(12),
+              ),
               child: Column(
                 children: [
                   // Image

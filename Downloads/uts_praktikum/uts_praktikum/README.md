@@ -44,7 +44,35 @@ lib/
 
 ## Screenshot
 
-Dashboard utama menampilkan menu navigasi vertikal dengan kartu yang menarik untuk setiap fitur.
+Berikut beberapa tampilan aplikasi yang disediakan di folder `screenshots/`:
+
+- `screenshots/Dashboard.png`
+- `screenshots/User input.png`
+- `screenshots/dynnamic list.png`
+- `screenshots/Navigasi sederhana.png`
+- `screenshots/Tentang saya.png`
+- `screenshots/widget bertingkat.png`
+- `screenshots/Counter.png`
+- `screenshots/grid view.png`
+- `screenshots/halaman view.png`
+
+![Dashboard](screenshots/Dashboard.png)
+
+![User Input](screenshots/Userinput.png)
+
+![Dynamic List](screenshots/dynnamiclist.png)
+
+![Navigasi Sederhana](screenshots/Navigasisederhana.png)
+
+![Tentang Saya](screenshots/Tentangsaya.png)
+
+![Widget Bertingkat](screenshots/widgetbertingkat.png)
+
+![Counter](screenshots/Counter.png)
+
+![Grid View](screenshots/gridview.png)
+
+![Halaman Detail](screenshots/halamanview.png)
 
 ## Lisensi
 
